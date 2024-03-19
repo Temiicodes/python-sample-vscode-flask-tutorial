@@ -6,7 +6,7 @@
 trigger:
 - main
 
-pool: CICDagent
+pool: MyPcAgent
 strategy:
   matrix:
     Python27:
